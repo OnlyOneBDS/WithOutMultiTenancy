@@ -1,0 +1,17 @@
+global using Ardalis.Specification;
+global using FluentValidation;
+global using WithOutMultiTenancy.Application.Common.Events;
+global using WithOutMultiTenancy.Application.Common.Exceptions;
+global using WithOutMultiTenancy.Application.Common.FileStorage;
+global using WithOutMultiTenancy.Application.Common.Interfaces;
+global using WithOutMultiTenancy.Application.Common.Models;
+global using WithOutMultiTenancy.Application.Common.Persistence;
+global using WithOutMultiTenancy.Application.Common.Specification;
+global using WithOutMultiTenancy.Application.Common.Validation;
+global using WithOutMultiTenancy.Domain.Catalog;
+global using WithOutMultiTenancy.Domain.Common;
+global using WithOutMultiTenancy.Domain.Common.Contracts;
+global using WithOutMultiTenancy.Shared.Notifications;
+global using MediatR;
+global using Microsoft.Extensions.Localization;
+global using Microsoft.Extensions.Logging;

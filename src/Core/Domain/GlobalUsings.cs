@@ -1,0 +1,1 @@
+﻿global using WithOutMultiTenancy.Domain.Common.Contracts;

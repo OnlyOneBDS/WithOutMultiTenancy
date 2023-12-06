@@ -1,0 +1,6 @@
+{
+  "DatabaseSettings": {
+    "ConnectionString": "Data Source=USLMAEAMISIAL3\\SQLEXPRESS;Initial Catalog=TIRTesting;Integrated Security=True;TrustServerCertificate=True",
+    "DBProvider": "mssql"
+  }
+}

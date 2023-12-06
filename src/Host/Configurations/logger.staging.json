@@ -1,0 +1,7 @@
+{
+  "LoggerSettings": {
+    "AppName": "WithOutMultiTenancy",
+    "WriteToFile": false,
+    "StructuredConsoleLogging": true
+  }
+}
